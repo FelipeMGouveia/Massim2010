@@ -1,0 +1,5 @@
+<!ENTITY accounts SYSTEM "accounts.xml">
+<!ENTITY teamA SYSTEM "teamA.xml">
+<!ENTITY teamB SYSTEM "teamB.xml">
+<!ENTITY demo1 SYSTEM "2010-demo1.xml">
+<!ENTITY demo2 SYSTEM "2010-demo2.xml">

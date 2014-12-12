@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tournament tournament-name="GridSimulation">
+<team name="A"/>
+<team name="B"/>
+<match blue="B" red="A">
+<simulation endtime="1418086666375" name="GridSimulation_AB_aamas" starttime="1418084117156">
+<result Aaveragescore="0.0" Acowsincorral="0" Baveragescore="0.0" Bcowsincorral="0" output="/home/massim/www/webapps/massim/output/GridSimulation_AB_aamas_2014-12-08_21-15\SimulationPreview.svg" simulation="GridSimulation_AB_aamas"/>
+</simulation>
+</match>
+</tournament>
